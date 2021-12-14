@@ -2,15 +2,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap');
 
 head {
-
+ \\ TO DO
 }
+
+\\ HEADER CSS
+
 header {
     align: center;
 }
 
-
-
-
-content.h1 {
-    align: center;
+h1.content {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
 }
+.box-c 
