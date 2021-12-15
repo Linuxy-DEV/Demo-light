@@ -16,4 +16,9 @@ h1.content {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
-.box-c 
+.box-c {
+    padding: 0% 15% 0% 15%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
