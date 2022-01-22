@@ -16,11 +16,12 @@ h1.content {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
-.box-c {
+div.slider {
     background: url(/img/w-box-bg.jpg);
-    position: cover;
-    padding: 0% 15% 0% 15%;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 100;
+    margin: auto;
+    width: 100%;
+}
+div.text-slider {
     text-align: center;
+    color: #fff;
 }
